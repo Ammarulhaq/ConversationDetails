@@ -1,0 +1,2 @@
+rootProject.name='ConversationDetails'
+include ':app'
